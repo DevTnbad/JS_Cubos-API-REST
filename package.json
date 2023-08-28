@@ -1,0 +1,30 @@
+{
+  "name": "exercicios-backend-api-rest",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/test.js",
+    "exe1": "nodemon ./01/cadastro-de-alunos/index.js",
+    "exe2": "nodemon ./02/Lista-de-convidados/index.js",
+    "exe3": "nodemon ./03/Biblioteca-online/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevTnbad/exercicios-backend-api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevTnbad/exercicios-backend-api-rest/issues"
+  },
+  "homepage": "https://github.com/DevTnbad/exercicios-backend-api-rest#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
