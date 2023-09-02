@@ -35,8 +35,8 @@
 - Como executar: 
 <br> npm run exe2
 
-<hr>
 
+---
 ### 3. Biblioteca Online:
 
 - O que é: 
@@ -44,7 +44,7 @@
 
 
 - Como executar: 
-<br> npm run exe2
-    -> npm run exe3
-<hr>
+<br> npm run exe3
+
+
 ---
