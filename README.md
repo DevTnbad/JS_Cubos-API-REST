@@ -27,8 +27,8 @@
 
 <div align="center>
 
-<img height="180" src=prints/ListaAlunos.jpeg>
-<img height="180" src=prints/cadastraAlunos.jpeg>
+<img height="400" src=prints/ListaAlunos.jpeg> <br>
+<img height="400" src=prints/cadastraAlunos.jpeg>
 
 </div>
 
