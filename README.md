@@ -10,7 +10,7 @@
 **git clone https://github.com/DevTnbad/JS_Cubos-API-REST**
 
 2. Navegue até o diretório do projeto: 
-**cd/JS_Cubos-API-REST**
+**cd JS_Cubos-API-REST**
 
 3. instale as dependências:
 **npm install**
