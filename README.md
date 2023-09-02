@@ -2,19 +2,49 @@
 
 # Back-end | API REST
 
-## Exercícios
+### Pré-requisitos:
+- Node.js
 
-1. Cadastro de alunos
-2. Lista de convidados
-3. Biblioteca Online
+### Instalação:
+1. Clone este repositório:
+**git clone https://github.com/seu-usuario/nome-do-projeto.git**
 
+2. Navegue até o diretório do projeto: 
+**cd/numero/nome-do-projeto**
+
+3. instale as dependências:
+**npm install**
 ---
+### 1. Cadastro de alunos:
 
-Preencha a checklist para fazer os exercícios:
+- O que é: 
+<br>API REST para realização de cadastro de alunos.
 
--   [ ] Fazer o fork do repositório para sua conta
--   [ ] Executar `git clone` do seu fork no terminal para clonar o repositório, ou clonar de outra maneira
--   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
--   [ ] Copiar a url do seu fork e enviar na plataforma
 
-###### tags: `módulo 2` `exercícios` `lógica` `nodeJS`
+- Como executar:
+<br> npm run exe1
+
+<hr>
+
+### 2. Lista de convidados:
+
+- O que é: 
+<br>API simples de um sistema para controle de convidados de evento.
+
+
+- Como executar: 
+<br> npm run exe2
+
+<hr>
+
+### 3. Biblioteca Online:
+
+- O que é: 
+<br>API REST simples de um sistema para controle de livros em uma biblioteca.
+
+
+- Como executar: 
+<br> npm run exe2
+    -> npm run exe3
+<hr>
+---

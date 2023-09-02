@@ -9,5 +9,5 @@ app.use(rotas);
 
 const porta = 3000;
 app.listen(porta, () => {
-    console.log(`Servidor Up na porta ${porta}`);
+    console.log(`Servidor Cadastro-de-Alunos Up na porta ${porta}`);
 })
