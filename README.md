@@ -24,11 +24,13 @@
 - Como executar:
 <br> npm run exe1
 <br>
-<br>
-Listando Alunos
 
-<img height="60em" src=prints/listaAlunos.jpeg>
-<img height="57em" src=prints/cadastraAlunos.jpeg>
+<div align="center>
+
+<img height="180" src=prints/ListaAlunos.jpeg>
+<img height="180" src=prints/cadastraAlunos.jpeg>
+
+</div>
 
 <hr>
 
