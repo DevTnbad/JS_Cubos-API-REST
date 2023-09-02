@@ -7,10 +7,10 @@
 
 ### Instalação:
 1. Clone este repositório:
-**git clone https://github.com/seu-usuario/nome-do-projeto.git**
+**git clone https://github.com/DevTnbad/JS_Cubos-API-REST**
 
 2. Navegue até o diretório do projeto: 
-**cd/numero/nome-do-projeto**
+**cd/JS_Cubos-API-REST**
 
 3. instale as dependências:
 **npm install**
@@ -18,7 +18,7 @@
 ### 1. Cadastro de alunos:
 
 - O que é: 
-<br>API REST para realização de cadastro de alunos.
+<br>API para realização de cadastro de alunos.
 
 
 - Como executar:
@@ -40,7 +40,7 @@
 ### 3. Biblioteca Online:
 
 - O que é: 
-<br>API REST simples de um sistema para controle de livros em uma biblioteca.
+<br>API de um sistema para controle de livros em uma biblioteca.
 
 
 - Como executar: 
