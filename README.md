@@ -23,10 +23,12 @@
 
 - Como executar:
 <br> npm run exe1
+<br>
+<br>
+Listando Alunos
 
-
-![Listando os alunos](prints/ListaAlunos.jpeg)
-![Listando os alunos](prints/cadastraAlunos.jpeg)
+<img height="60em" src=prints/listaAlunos.jpeg>
+<img height="57em" src=prints/cadastraAlunos.jpeg>
 
 <hr>
 
