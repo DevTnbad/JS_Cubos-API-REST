@@ -9,6 +9,9 @@
 1. Clone este repositório:
 **git clone https://github.com/DevTnbad/JS_Cubos-API-REST**
 
+
+![Listando os alunos](URL_da_Imagem)
+
 2. Navegue até o diretório do projeto: 
 **cd JS_Cubos-API-REST**
 
