@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Back-end | 3 API's desenvolvidas em **JavaScript** com **Node.js** como Exercicios no curso da Cubus Academy.
+# 3 API's desenvolvidas em JavaScript com Node.js como Exercicios no curso Back-end da Cubus Academy.
 
 ### Pré-requisitos:
 - Node.js
@@ -31,8 +31,9 @@ npm install
 
 
 - Como executar:
-<br> npm run exe1<br>
-<br>
+```
+npm run exe1
+```
 Listando Alunos:
 <br>
 <img width="300" src=prints/listaAlunos.png> <br>
@@ -46,8 +47,9 @@ Listando Alunos:
 
 
 - Como executar: 
-<br> npm run exe2<br>
-<br>
+```
+npm run exe2
+```
 Listando Convidados:
 <br>
 <img width="300" src=prints/listaConvidados.png>
@@ -62,8 +64,9 @@ Listando Convidados:
 
 
 - Como executar: 
-<br> npm run exe3<br>
-<br>
+```
+npm run exe3
+```
 Listando Livros:
 <br>
 <img width="300" src=prints/listaLivros.png> 
