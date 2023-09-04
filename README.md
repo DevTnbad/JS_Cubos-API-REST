@@ -1,19 +1,28 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Back-end | API REST
+# Back-end |3 API's REST
 
 ### Pré-requisitos:
 - Node.js
 
 ### Instalação:
 1. Clone este repositório:
+```
 **git clone https://github.com/DevTnbad/JS_Cubos-API-REST**
+```
+
 
 2. Navegue até o diretório do projeto: 
+```
 **cd JS_Cubos-API-REST**
+```
+
 
 3. instale as dependências:
+```
 **npm install**
+```
+
 ---
 ### 1. Cadastro de alunos:
 
@@ -22,9 +31,10 @@
 
 
 - Como executar:
-<br> npm run exe1
+<br> npm run exe1<br>
 <br>
-
+Listando Alunos:
+<br>
 <img width="300" src=prints/listaAlunos.png> <br>
 
 <hr>
@@ -36,8 +46,10 @@
 
 
 - Como executar: 
-<br> npm run exe2
-
+<br> npm run exe2<br>
+<br>
+Listando Convidados:
+<br>
 <img width="300" src=prints/listaConvidados.png>
 
 <br>
@@ -50,8 +62,10 @@
 
 
 - Como executar: 
-<br> npm run exe3
-
+<br> npm run exe3<br>
+<br>
+Listando Livros:
+<br>
 <img width="300" src=prints/listaLivros.png> 
 
 ---
