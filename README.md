@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Back-end |3 API's REST
+# Back-end | 3 API's desenvolvidas em **JavaScript** com **Node.js** como Exercicios no curso da Cubus Academy.
 
 ### Pré-requisitos:
 - Node.js
@@ -8,19 +8,19 @@
 ### Instalação:
 1. Clone este repositório:
 ```
-**git clone https://github.com/DevTnbad/JS_Cubos-API-REST**
+git clone https://github.com/DevTnbad/JS_Cubos-API-REST
 ```
 
 
 2. Navegue até o diretório do projeto: 
 ```
-**cd JS_Cubos-API-REST**
+cd JS_Cubos-API-REST
 ```
 
 
 3. instale as dependências:
 ```
-**npm install**
+npm install
 ```
 
 ---
