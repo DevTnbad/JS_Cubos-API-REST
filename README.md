@@ -25,12 +25,7 @@
 <br> npm run exe1
 <br>
 
-<div align="center>
-
-<img height="400" src=prints/ListaAlunos.jpeg> <br>
-<img height="400" src=prints/cadastraAlunos.jpeg>
-
-</div>
+<img width="300" src=prints/listaAlunos.png> <br>
 
 <hr>
 
@@ -43,6 +38,9 @@
 - Como executar: 
 <br> npm run exe2
 
+<img width="300" src=prints/listaConvidados.png>
+
+<br>
 
 ---
 ### 3. Biblioteca Online:
@@ -54,5 +52,6 @@
 - Como executar: 
 <br> npm run exe3
 
+<img width="300" src=prints/listaLivros.png> 
 
 ---
