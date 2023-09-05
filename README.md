@@ -84,6 +84,7 @@ Listando Convidados: localhost:3000/convidados
 <p>
 <img width="300" src=prints/listaConvidados.png>
 </p>
+
 Exemplo para utilizar os Endpoints:
 ```
 GET Listar convidados: localhost:3000/convidados
