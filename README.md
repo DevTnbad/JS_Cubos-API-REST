@@ -107,7 +107,6 @@ API de um sistema para controle de livros em uma biblioteca.
 npm run exe3
 ```
 Listando Livros:
-<br>
 <img width="300" src=prints/listaLivros.png> 
 
 Exemplo para utilizar os Endpoints:
