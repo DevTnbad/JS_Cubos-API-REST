@@ -92,7 +92,7 @@ GET Consultar convidado: localhost:3000/convidados/Amanda
 POST Adicionar convidado: localhost:3000/convidados 
 DELETE Excluir convidado: localhost:3000/convidados/Amanda
 
-Obs: para adicionar um convidado e nome deve ser passao como json conforme exemplo: 
+Obs: para adicionar um convidado e nome deve ser passado no body (corpo) da requisição em formato json. conforme exemplo: 
 {
 	"nome": "Kiara"
 }
@@ -113,6 +113,7 @@ Listando Livros: localhost:3000/livros/
 <p>
 <img width="300" src=prints/listaLivros.png> 
 </p>
+
 Exemplo para utilizar os Endpoints:
 ```
 GET Listar Livros: localhost:3000/livros/
@@ -122,7 +123,7 @@ PUT Substituir livro: localhost:3000/livros/5
 PATCH Atualizar livro: localhost:3000/livros/1
 DELETE Excluir livro: localhost:3000/livros/1
 
-OBS: Nos metodos POST, PUT e PATCH os dados devem ser passados no body (corpo) da requisição em formato json. 
+OBS: Nos métodos POST, PUT e PATCH os dados devem ser passados no body (corpo) da requisição em formato json. 
 
 Exemplo de POST e PUT: 
 {
