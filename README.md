@@ -30,10 +30,10 @@ API para realização de cadastro, busca de aluno por id, atualizacao dos dados,
 ```
 npm run exe1
 ```
-Listando Alunos:
-localhost:3000/alunos/?senha=cubos123
+Listando Alunos: localhost:3000/alunos/?senha=cubos123 
+<p>
 <img width="300" src=prints/listaAlunos.png>
-
+</p>
 OBS: 
 - Em todos endpoint's a senha(cubos123) deverá ser passada por parâmetro do tipo query chamado 
 **senha** conforme exemplo acima.
@@ -80,10 +80,10 @@ API para controle de convidados de evento, onde é possivel listar todos os conv
 ```
 npm run exe2
 ```
-Listando Convidados:
-localhost:3000/convidados
+Listando Convidados: localhost:3000/convidados
+<p>
 <img width="300" src=prints/listaConvidados.png>
-
+</p>
 Exemplo para utilizar os Endpoints:
 ```
 GET Listar convidados: localhost:3000/convidados
@@ -108,9 +108,10 @@ API de um sistema para controle de livros em uma biblioteca. Possibilitando list
 ```
 npm run exe3
 ```
-Listando Livros:
+Listando Livros: localhost:3000/livros/
+<p>
 <img width="300" src=prints/listaLivros.png> 
-
+</p>
 Exemplo para utilizar os Endpoints:
 ```
 GET Listar Livros: localhost:3000/livros/
