@@ -34,7 +34,8 @@ Listando Alunos: localhost:3000/alunos/?senha=cubos123
 <p>
 <img width="300" src=prints/listaAlunos.png>
 </p>
-OBS: 
+OBS:
+ 
 - Em todos endpoint's a senha(cubos123) deverá ser passada por parâmetro do tipo query chamado 
 **senha** conforme exemplo acima.
 
