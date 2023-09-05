@@ -32,14 +32,13 @@ npm run exe1
 ```
 Listando Alunos:
 localhost:3000/alunos/?senha=cubos123
+<img width="300" src=prints/listaAlunos.png>
 
 OBS: 
 - Em todos endpoint's a senha(cubos123) deverá ser passada por parâmetro do tipo query chamado 
 **senha** conforme exemplo acima.
 
 - Ao Utilizar o Patch para atualizar o curso, sera feita uma verificação se o curso é válido (Se existe na lista de cursos do arquivo ./dados/cursos.js), caso contrario a atualizacao nao sera efetuada.
-
-<img width="300" src=prints/listaAlunos.png> 
 
 Exemplo para utilizar os Endpoints:
 ```
