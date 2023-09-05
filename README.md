@@ -26,6 +26,7 @@ npm install
 API para realização de cadastro, busca de aluno por id, atualizacao dos dados, e exclusao de alunos.
 <br>
 - Como executar:
+
 ```
 npm run exe1
 ```
@@ -73,8 +74,8 @@ Exemplo de POST e PUT:
 ### 2. Lista de convidados:
 
 - O que é: 
-API simples de um sistema para controle de convidados de evento.
-
+API para controle de convidados de evento, onde é possivel listar todos os convidados, consultar um convidado pelo nome, adicionar e excluir.
+<br>
 - Como executar: 
 ```
 npm run exe2
@@ -100,7 +101,7 @@ Obs: para adicionar um convidado e nome deve ser passao como json conforme exemp
 ### 3. Biblioteca Online:
 
 - O que é: 
-API de um sistema para controle de livros em uma biblioteca.
+API de um sistema para controle de livros em uma biblioteca. Possibilitando listar todos os livros, listar por id, Substituir, atualizar e excluir.
 
 - Como executar: 
 ```
