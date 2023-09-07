@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# 3 API's desenvolvidas em JavaScript com Node.js como Exercicios no curso Back-end da Cubus Academy. 
+## 3 API's desenvolvidas em JavaScript com Node.js como Exercicios no curso Back-end da Cubus Academy. 
 
 ### Pré-requisitos:
 - Node.js
