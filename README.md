@@ -4,6 +4,7 @@
 
 ### Pré-requisitos:
 - Node.js
+- insomnia ou postman ou similares (para testar as requisições)
 
 ### Instalação:
 1. Clone este repositório:
