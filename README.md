@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# 3 API's desenvolvidas em JavaScript com Node.js como Exercicios no curso Back-end da Cubus Academy.
+# 3 API's desenvolvidas em JavaScript com Node.js como Exercicios no curso Back-end da Cubus Academy. 
 
 ### Pré-requisitos:
 - Node.js
@@ -45,7 +45,7 @@ OBS:
 Exemplo para utilizar os Endpoints:
 ```
 GET Listar alunos: localhost:3000/alunos/?senha=cubos123
-GETListar Aluno por id: localhost:3000/alunos/1?senha=cubos123
+GET Listar Aluno por id: localhost:3000/alunos/1?senha=cubos123
 POST Cadastrar aluno: localhost:3000/alunos?senha=cubos123
 PUT Atualizar Aluno: localhost:3000/alunos/1?senha=cubos123
 PATCH Atualizar Nome: localhost:3000/alunos/1/nome?senha=cubos123
