@@ -2,7 +2,7 @@
 
 ## 3 API's desenvolvidas em JavaScript com Node.js como Exercicios no curso Back-end da Cubus Academy. 
 
-### Pré-requisitos:
+### Pré-requisitos: 
 - Node.js
 - insomnia ou postman ou similares (para testar as requisições)
 
@@ -94,7 +94,7 @@ GET Consultar convidado: localhost:3000/convidados/Amanda
 POST Adicionar convidado: localhost:3000/convidados 
 DELETE Excluir convidado: localhost:3000/convidados/Amanda
 
-Obs: para adicionar um convidado e nome deve ser passado no body (corpo) da requisição em formato json. conforme exemplo: 
+Obs: para adicionar um convidado 0 nome deve ser passado no body (corpo) da requisição em formato json. conforme exemplo: 
 {
 	"nome": "Kiara"
 }
