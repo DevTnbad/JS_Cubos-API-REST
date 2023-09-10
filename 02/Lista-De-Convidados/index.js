@@ -61,5 +61,5 @@ app.delete('/convidados/:nome', deletarConvidado);
 
 const porta = 3000;
 app.listen(porta, () => {
-    console.log(`Servidor Lista-de-Convidados Up, na porta ${porta}`);
+    console.log(`Servidor Lista-de-Convidados Up na porta ${porta}`);
 })
